@@ -6,30 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e0edffb-8d1f-464c-8d3c-7d9cda91499f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Using Cookies/.idea/artifacts/Using_Cookies_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Using Cookies/Using Cookies.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Using Cookies/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Using Cookies/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Using Cookies/.idea/artifacts/IntelliJ_IDEA_Projects_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Using Cookies/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Using Cookies/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Using Cookies/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Using Cookies/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Using Cookies/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Using Cookies/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Using Cookies/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Using Cookies/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Using Cookies/IntelliJ IDEA Projects.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Using Cookies/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Using Cookies/out/artifacts/IntelliJ_IDEA_Projects_war_exploded/WEB-INF/classes/com/Adore96/AddServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Using Cookies/out/artifacts/IntelliJ_IDEA_Projects_war_exploded/WEB-INF/classes/com/Adore96/SqServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Using Cookies/out/artifacts/IntelliJ_IDEA_Projects_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Using Cookies/out/artifacts/IntelliJ_IDEA_Projects_war_exploded/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Using Cookies/out/production/IntelliJ IDEA Projects/com/Adore96/AddServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Using Cookies/out/production/IntelliJ IDEA Projects/com/Adore96/SqServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Using Cookies/src/com/Adore96/AddServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Using Cookies/src/com/Adore96/AddServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Using Cookies/src/com/Adore96/SqServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Using Cookies/src/com/Adore96/SqServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Using Cookies/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Using Cookies/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Using Cookies/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Using Cookies/web/index.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="6e0edffb-8d1f-464c-8d3c-7d9cda91499f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
