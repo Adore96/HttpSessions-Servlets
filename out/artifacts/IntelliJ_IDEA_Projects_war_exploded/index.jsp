@@ -8,7 +8,7 @@
 
 <html>
   <head>
-    <title>Check</title>
+    <title>Index Page</title>
   </head>
   <body>
   <form action="Add" method="get">
