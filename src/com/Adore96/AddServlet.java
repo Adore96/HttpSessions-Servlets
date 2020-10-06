@@ -12,6 +12,7 @@ import javax.servlet.http.HttpSession;
 import java.io.IOException;
 import java.io.PrintWriter;
 
+//WebServlet adding from here
 @WebServlet(name = "AddServlet")
 public class AddServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
